@@ -1,6 +1,6 @@
 # Royal Décor - E-Commerce Website
 
-![Royal Décor Logo](path/to/logo.png)  
+![Royal Décor Logo](\logo.png)  
 
 ## Table of Contents
 1. [Introduction](#introduction)
